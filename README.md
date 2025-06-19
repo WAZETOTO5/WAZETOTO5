@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🏊‍♂️ Swimmer | Water Enthusiast | Always Chasing the Flow
 
-<!--
-**WAZETOTO5/WAZETOTO5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm someone who finds peace, challenge, and joy in the water. Swimming isn’t just a sport to me—it's a lifestyle, a way to disconnect, refocus, and push my limits.
 
-Here are some ideas to get you started:
+### 💧 What Swimming Means to Me
+- 🌀 Discipline through daily practice  
+- 🌊 Mindfulness in every stroke  
+- 🏅 Passion for progress, whether in open water or the pool  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside the pool, I love exploring how technology and data can enhance performance and recovery. You might find some of my experiments, tools, or trackers here on my GitHub.
+
+### 🌐 Connect With Me
+- Portfolio: [Portfolio](https://canariasweed.com)  
+
+Thanks for stopping by! Let’s dive into something great 🌊
